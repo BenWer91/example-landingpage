@@ -1,0 +1,61 @@
+
+html { 
+  background: url("http://www.orris.in/wp-content/uploads/2017/05/bigstock-Business-handshake-Business-h-126104462-1024x686.jpg") no-repeat center center fixed; 
+    max-width: :100%;
+    height: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    
+}
+
+
+.test {
+    margin-top: 400px;
+  
+   
+    
+    
+}
+
+
+ url { 
+    max-width:100%;
+    height:auto;
+
+}
+
+
+footer {
+    
+    color:black;
+}
+
+
+footer {
+  position: fixed; 
+  left: 0px;
+  bottom: 0px; 
+  height: px;
+  width: 100%; 
+  background: #ff6600;
+}
+
+
+
+nav {
+    
+    height:125px;
+}
+
+
+
+
+
+
+
+
+
+
+
